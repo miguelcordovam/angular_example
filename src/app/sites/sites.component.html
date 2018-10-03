@@ -1,0 +1,7 @@
+<select (change)="filterCategories($event.target.value)">
+  <option value="" selected disabled hidden>Selecciona aquí</option>
+  <option *ngFor="let site of sites" value="{{site.id}}">
+    {{site.name}}
+  </option>
+
+</select>

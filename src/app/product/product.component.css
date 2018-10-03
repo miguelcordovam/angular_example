@@ -1,0 +1,43 @@
+.container {
+  background-color: white;
+}
+
+.product-title {
+  font-family: 'El Messiri';
+  font-size: 18px;
+  text-decoration: none;
+}
+
+td {
+  text-align: center;
+  font-family: "Playball";
+  font-size: 16px;
+}
+
+th {
+  font-size: 16px;
+  padding-left: 50px;
+  padding-right:  50px;
+  padding-top: 25px;
+  font-family: "Kaushan Script";
+}
+
+a {
+  text-decoration: none;
+  color: #333333;
+}
+
+.titulo {
+  font-family: 'Shadows Into Light Two', serif;
+  font-size: 40px;
+  text-align: center;
+  color: #182680;
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.subtitulo {
+  font-family: 'Shadows Into Light Two', serif;
+  font-size: 20px;
+  text-align: center;
+}
